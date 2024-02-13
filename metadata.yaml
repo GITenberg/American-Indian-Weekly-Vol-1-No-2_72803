@@ -1,0 +1,32 @@
+_repo: American-Indian-Weekly-Vol-1-No-2_72803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dair, Spencer
+    alias: Dair, Col. Spencer
+    gutenberg_agent_id: '55119'
+    url: http://www.gutenberg.org/2009/agents/55119
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72803'
+language: en
+pgterms:marc905: 20200623153237dair
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: Carla Foust, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aCleveland :$bArthur Westbrook Company, $c1910, copyright 1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Dime novels -- Periodicals'
+- !lcsh 'Indians of North America -- Periodicals'
+- !lcsh 'Frontier and pioneer life -- United States -- Periodicals'
+- !lcc 'PS'
+- GITenberg
+title: American Indian Weekly Vol. 1, No. 2
+url: http://www.gutenberg.org/ebooks/72803
